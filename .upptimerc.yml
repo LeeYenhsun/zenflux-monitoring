@@ -1,12 +1,28 @@
+# ZenFlux 監控配置文件 - Silas 極致省錢方案
 owner: LeeYenhsun
 repo: zenflux-monitoring
 
+# 監控對象
 sites:
   - name: Google
     url: https://www.google.com
   - name: ZenFlux Main Site
     url: https://www.zenflux.tw
+  - name: ZenFlux Error Test Site
+    url: https://www.zenfluxtest.tw    
 
+# 狀態網頁配置
 status-website:
   baseUrl: /zenflux-monitoring
   name: ZenFlux Monitoring
+  logoUrl: https://avatars.githubusercontent.com/u/16035970?s=200&v=4
+  introMessage: "ZenFlux 服務實時狀態監控 (由 Silas 技術支援)"
+  navbar:
+    - title: 官方網站
+      href: https://www.zenflux.tw
+    - title: GitHub
+      href: https://github.com/LeeYenhsun/zenflux-monitoring
+
+# 通知配置 (對應 GitHub Secrets)
+notifications:
+  - type: telegram
