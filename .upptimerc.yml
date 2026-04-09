@@ -13,7 +13,7 @@ sites:
 status-website:
   baseUrl: /zenflux-monitoring
   name: ZenFlux Monitoring
-  logoUrl: https://avatars.githubusercontent.com/u/16035970?s=200&v=4
+  logoUrl: /zenflux-monitoring/logo.150x.png
   introMessage: "ZenFlux 服務實時狀態監控 (由 Silas 技術支援)"
   navbar:
     - title: 官方網站
