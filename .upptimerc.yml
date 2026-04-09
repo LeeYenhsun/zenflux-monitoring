@@ -26,5 +26,6 @@ status-website:
 # 通知配置 (對應 GitHub Secrets)
 notifications:
   - type: telegram
+    enabled: true
     bot-token: "8582068977:AAGZwQTxCtjT-cQbB3dCuANKs41H8Ji3H0Y"
     chat-id: "374658040"
