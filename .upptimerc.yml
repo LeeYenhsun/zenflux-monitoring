@@ -26,5 +26,5 @@ status-website:
 # 通知配置 (對應 GitHub Secrets)
 notifications:
   - type: telegram
-    bot-token: $NOTIFICATION_TELEGRAM_BOT_KEY
-    chat-id: $NOTIFICATION_TELEGRAM_CHAT_ID
+    bot-token: $TELEGRAM_BOT_KEY
+    chat-id: $TELEGRAM_CHAT_ID
