@@ -9,7 +9,7 @@ sites:
   - name: ZenFlux Main Site
     url: https://www.zenflux.tw
   - name: ZenFlux Error Test Site
-    url: https://www.google.com
+    url: https://www.google1.com
 
 # 狀態網頁配置
 status-website:
