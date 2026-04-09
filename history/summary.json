@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "zen-flux-error-test-site",
     "status": "up",
-    "uptime": "34.57%",
-    "uptimeDay": "34.57%",
-    "uptimeWeek": "34.57%",
-    "uptimeMonth": "34.57%",
-    "uptimeYear": "34.57%",
+    "uptime": "40.10%",
+    "uptimeDay": "40.10%",
+    "uptimeWeek": "40.10%",
+    "uptimeMonth": "40.10%",
+    "uptimeYear": "40.10%",
     "time": 54,
     "timeDay": 54,
     "timeWeek": 54,
     "timeMonth": 54,
     "timeYear": 54,
     "dailyMinutesDown": {
-      "2026-04-09": 111
+      "2026-04-09": 102
     }
   }
 ]
